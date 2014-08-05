@@ -1,0 +1,29 @@
+{
+  "family": "alice",
+  "name": "alice-test",
+  "version": "1.0.0",
+  "description": "alice test",
+  "homepage": "https://github.com/nevernet/alice-test",
+  "author": "Daniel Qin",
+  "maintainers": [
+    "Daniel Qin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nevernet/alice-test.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "alice-test.js",
+      "alice-test.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
